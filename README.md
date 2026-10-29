@@ -4,6 +4,10 @@ This repository contains a Streamlit app that compares today's FRED values with
 the ALFRED vintage available on a selected date, plus the DGS10 Project 2 data
 card.
 
+## Live app
+
+https://lab-17-8ngf93khrnul8pffdva2pv.streamlit.app/
+
 ## Run
 
 ```powershell
